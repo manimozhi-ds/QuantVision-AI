@@ -147,6 +147,12 @@ Deployment Platform:
 
 ---
 
+## Live Demo
+
+https://huggingface.co/spaces/manimozhi-ds/QuantVision-AI
+
+---
+
 # Supported Markets
 
 - US Equities
