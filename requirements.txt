@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+requests
+python-dotenv
+ta
+vaderSentiment
+scikit-learn
+joblib
+streamlit-autorefresh
+websocket-client
+tensorflow
+keras
